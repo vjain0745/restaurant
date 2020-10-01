@@ -1,1 +1,3 @@
-# restaurant
+# npm install
+
+nodemon
